@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # danana5.github.io
 
 ## Project setup
@@ -34,3 +35,7 @@ dangrace.ie is my personal website which I am using as a portfolio site which hi
 >>>>>>> parent of 322e1b4... Update README.md
 =======
 >>>>>>> parent of 322e1b4... Update README.md
+=======
+# dangrace.ie
+dangrace.ie is my personal website which I am using as a portfolio site which hightlights my projects and also an about me section showcasing me as a person.
+>>>>>>> parent of 144bf26... reinitializing as vue app
