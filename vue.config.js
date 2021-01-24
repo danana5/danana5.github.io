@@ -1,3 +1,4 @@
 module.exports = {
-  publicPath: "/danana5.github.io/",
+  publicPath: "/danana5.github.io",
+  outputDir: "docs",
 };
